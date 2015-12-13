@@ -164,6 +164,7 @@
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="DataContexts\ApplicationDb.cs" />
     <Compile Include="DataContexts\ApplicationMigrations\Configuration.cs" />
+    <Compile Include="DataContexts\ClientDb.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
